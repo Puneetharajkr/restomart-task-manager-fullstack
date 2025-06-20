@@ -17,7 +17,7 @@ This is a simple full-stack **Task Manager** application developed as part of th
 
 ---
 
-## Live Demo
+## Deployed Live Links and Demo Links
 
 - **Frontend** (React):  
    [https://task-manager-frontend-puneetharaj-k-rs-projects.vercel.app/](https://task-manager-frontend-puneetharaj-k-rs-projects.vercel.app/)
@@ -25,6 +25,8 @@ This is a simple full-stack **Task Manager** application developed as part of th
 - **Backend** (Express + SQLite):  
    [https://task-manager-backend-9xgx.onrender.com](https://task-manager-backend-9xgx.onrender.com)
 
+- **Task Demo Video**:
+  https://drive.google.com/file/d/1dJLnFyfekiGnFVOihyENt513aHqrKrx8/view?usp=sharing
 ---
 
 ## Repository Structure
